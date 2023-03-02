@@ -1,5 +1,8 @@
 *.bak
+*.html
 *.zip
+!/Project Outputs for onV1/toPSElectro/*.zip
+*.Cam
 Project Logs for onV1/
 History/
 __Previews/
